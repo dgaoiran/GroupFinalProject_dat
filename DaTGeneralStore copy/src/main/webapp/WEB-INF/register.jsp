@@ -34,7 +34,7 @@
 						<div class="text-center">
 						<img src="https://smallbizclub.com/wp-content/uploads/2018/11/Potential-Risks-of-Online-Shopping.jpg"
 							style="width: 185px;" alt="logo">
-						<h4 class="mt-1 mb-5 pb-1">DaT General SuperStore</h4>
+						<h4 class="mt-1 mb-5 pb-1">DaT Classifieds</h4>
 						</div>
 		
 						<form:form action="/datclassifieds/register/submit" method="post" modelAttribute="newUser">
